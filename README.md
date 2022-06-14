@@ -1,5 +1,6 @@
 # gabrielperes002
-:school:estudante ensino méio
+:school:estudante ensino médio
+
 :brazil: brasileiro 
 
 
